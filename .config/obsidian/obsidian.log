@@ -1,0 +1,43 @@
+2025-09-09 19:40:28 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-09-09 19:40:28 Checking for update using Github
+2025-09-09 19:40:28 Success.
+2025-09-09 19:40:28 Latest version is 1.9.12
+2025-09-09 19:40:28 App is up to date.
+2025-10-06 22:13:44 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-06 22:13:44 Checking for update using Github
+2025-10-06 22:13:45 Success.
+2025-10-06 22:13:45 Latest version is 1.9.14
+2025-10-06 22:13:45 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian-1.9.14.asar.gz
+2025-10-06 22:14:25 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-06 22:14:25 Checking for update using Github
+2025-10-06 22:14:25 Success.
+2025-10-06 22:14:25 Latest version is 1.9.14
+2025-10-06 22:14:25 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian-1.9.14.asar.gz
+2025-10-06 22:14:30 Verifying hash & signature. Size= 9033685
+2025-10-06 22:14:30 Saving file
+2025-10-06 22:14:30 Update complete.
+2026-02-17 17:10:06 Loading updated app package /home/atipique_/.config/obsidian/obsidian-1.9.14.asar
+2026-02-17 17:10:07 Checking for update using Github
+2026-02-17 17:10:07 Success.
+2026-02-17 17:10:07 Latest version is 1.11.7
+2026-02-17 17:10:07 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.7/obsidian-1.11.7.asar.gz
+2026-02-17 17:10:09 Verifying hash & signature. Size= 8773752
+2026-02-17 17:10:09 Saving file
+2026-02-17 17:10:09 Update complete.
+2026-02-17 18:10:06 Checking for update using Github
+2026-02-17 18:10:06 Success.
+2026-02-17 18:10:06 Latest version is 1.11.7
+2026-02-17 18:10:06 An update is already downloaded.
+2026-02-17 19:10:06 Checking for update using Github
+2026-02-17 19:10:06 Success.
+2026-02-17 19:10:06 Latest version is 1.11.7
+2026-02-17 19:10:06 An update is already downloaded.
+2026-02-17 21:11:48 Loading updated app package /home/atipique_/.config/obsidian/obsidian-1.11.7.asar
+2026-02-17 21:11:49 Checking for update using Github
+2026-02-17 21:11:50 Success.
+2026-02-17 21:11:50 Latest version is 1.11.7
+2026-02-17 21:11:50 App is up to date.
+2026-02-17 22:11:48 Checking for update using Github
+2026-02-17 22:11:50 Success.
+2026-02-17 22:11:50 Latest version is 1.11.7
+2026-02-17 22:11:50 App is up to date.

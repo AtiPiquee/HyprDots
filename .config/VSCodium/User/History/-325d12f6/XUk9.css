@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "SpaceMono Nerd Font";
+    font-display: swap;
+    src:
+      local("SpaceMono Nerd Font"),
+      url(../fonts/SpaceMonoNF.woff2) format("woff2"),
+      url(../fonts/SpaceMonoNF.woff) format("woff");
+  }
+  
+body {
+    color: var(--text-color);
+    font-family:
+      SpaceMono Nerd Font,
+      monospace;
+  }
+
+.urls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.url {
+    height: 230px;
+    width: 370px;
+    text-align: left;
+    padding: 20px;
+}
+
+.url li {
+    list-style-type: none;
+    font-size: 1.3rem;
+}

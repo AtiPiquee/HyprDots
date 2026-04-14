@@ -1,0 +1,36 @@
+@import "../src/libs/reset.scss";
+
+body {
+    background: #000000;
+    color: #ffffff;
+}
+
+p {
+    margin: 1rem;
+}
+
+.table {
+    width: 100%;
+
+    td {
+        border : 1px solid #ccc; 
+    }
+
+    thead {
+        background: #000000;
+        color: #fff;
+    }
+}
+
+.btn {
+    padding: 5px 12px;
+    background: blueviolet;
+
+    &:hover {
+        background: blue($color: #000000)
+    }
+}
+
+.call-to-action {
+    @extend .btn;
+}

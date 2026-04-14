@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "SpaceMono Nerd Font";
+    font-display: swap;
+    src:
+      local("SpaceMono Nerd Font"),
+      url(../fonts/SpaceMonoNF.woff2) format("woff2"),
+      url(../fonts/SpaceMonoNF.woff) format("woff");
+  }
+
+html {
+  background-image: url(../img/bg2.png);
+}
+  
+body {
+    display: flex;
+    color: var(--text-color);
+    font-family:
+      SpaceMono Nerd Font,
+      monospace;
+  }
+
+.urls {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: normal;
+    align-items: center;
+    align-content: normal;
+}
+
+.url:nth-child(1) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+  
+  .url:nth-child(2) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+  
+  .url:nth-child(3) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+  
+  .url:nth-child(4) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+
+.url li {
+    list-style-type: none;
+    font-size: 1.3rem;
+}

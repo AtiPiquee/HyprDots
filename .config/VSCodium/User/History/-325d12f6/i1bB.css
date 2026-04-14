@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "SpaceMono Nerd Font";
+    font-display: swap;
+    src:
+      local("SpaceMono Nerd Font"),
+      url(../fonts/JetBrainsMonoNerdFontComplete-SemiBold.woff2) format("woff2"),
+      url(../fonts/JetBrainsMonoNerdFontComplete-SemiBold.woff) format("woff");
+  }
+  

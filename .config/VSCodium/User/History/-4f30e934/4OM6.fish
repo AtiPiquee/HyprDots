@@ -1,0 +1,1 @@
+alias octologo="./~/.local/bin/octologo"

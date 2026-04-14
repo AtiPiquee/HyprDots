@@ -1,0 +1,60 @@
+2025-10-20 15:00:16.129 [info] [main] Log level: Info
+2025-10-20 15:00:16.129 [info] [main] Validating found git in: "git"
+2025-10-20 15:00:16.129 [info] [main] Using git "2.51.0" from "git"
+2025-10-20 15:00:16.129 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-20 15:00:16.129 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-20 15:00:53.286 [info] [main] Log level: Info
+2025-10-20 15:00:53.286 [info] [main] Validating found git in: "git"
+2025-10-20 15:00:53.286 [info] [main] Using git "2.51.0" from "git"
+2025-10-20 15:00:53.286 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-20 15:00:53.289 [info] > git rev-parse --show-toplevel [8ms]
+2025-10-20 15:00:53.298 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [4ms]
+2025-10-20 15:00:53.319 [info] [Model][openRepository] Opened repository (path): /home/atipique_/hypr-dots
+2025-10-20 15:00:53.319 [info] [Model][openRepository] Opened repository (real path): /home/atipique_/hypr-dots
+2025-10-20 15:00:53.319 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-20 15:00:53.324 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-20 15:00:53.341 [info] > git config --get commit.template [10ms]
+2025-10-20 15:00:53.415 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2025-10-20 15:00:53.425 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/atipique_/hypr-dots/.git/refs/remotes/origin/main'
+2025-10-20 15:00:53.426 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-10-20 15:00:53.439 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-10-20 15:00:53.841 [info] > git check-ignore -v -z --stdin [1ms]
+2025-10-20 15:00:54.450 [info] > git fetch [1131ms]
+2025-10-20 15:00:54.450 [info] warning: redirecting to https://gitlab.com/AtiPique/hypr-dots.git/
+2025-10-20 15:00:54.462 [info] > git status -z -uall [1033ms] (cancelled)
+2025-10-20 15:00:54.462 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-10-20 15:00:54.467 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2025-10-20 15:00:54.467 [warning] [Git][config] git config failed: Failed to execute git
+2025-10-20 15:00:54.470 [info] > git config --get commit.template [8ms]
+2025-10-20 15:00:54.471 [info] > git config --get commit.template [12ms]
+2025-10-20 15:00:54.477 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-20 15:00:54.477 [info] > git reflog main --grep-reflog=branch: Created from *. [7ms]
+2025-10-20 15:00:54.482 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/atipique_/hypr-dots/.git/refs/remotes/origin/main'
+2025-10-20 15:00:54.483 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-10-20 15:00:54.485 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/atipique_/hypr-dots/.git/refs/remotes/origin/main'
+2025-10-20 15:00:54.486 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-10-20 15:00:54.487 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [7ms]
+2025-10-20 15:00:54.490 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-10-20 15:00:54.497 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [7ms]
+2025-10-20 15:00:54.500 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-20 15:00:54.501 [info] > git config --add --local branch.main.vscode-merge-base origin/main [1ms]
+2025-10-20 15:00:54.506 [info] > git status -z -uall [13ms] (cancelled)
+2025-10-20 15:00:54.507 [info] > git config --get commit.template [1ms]
+2025-10-20 15:00:54.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-20 15:00:54.513 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/atipique_/hypr-dots/.git/refs/remotes/origin/main'
+2025-10-20 15:00:54.514 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-20 15:00:54.521 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-20 15:00:55.461 [info] > git status -z -uall [944ms]
+2025-10-20 15:00:55.481 [info] > git merge-base refs/heads/main refs/remotes/origin/main [12ms]
+2025-10-20 15:00:55.485 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2025-10-20 15:00:55.489 [info] > git diff --name-status -z --diff-filter=ADMR 61130ebd57ed338fcf38ccebd08d696307ea1128...refs/remotes/origin/main [5ms]
+2025-10-20 15:00:55.490 [info] > git diff --name-status -z --diff-filter=ADMR 61130ebd57ed338fcf38ccebd08d696307ea1128...refs/remotes/origin/main [2ms]
+2025-10-20 15:01:09.572 [info] > git show --textconv :.config/waybar/config [10ms]
+2025-10-20 15:01:09.574 [info] > git ls-files --stage -- .config/waybar/config [4ms]
+2025-10-20 15:01:09.582 [info] > git cat-file -s d42872630ee0653c07b3b00e210a9c03b4a6eb2a [2ms]
+2025-10-20 15:01:11.844 [info] > git show --textconv :.config/waybar/style.css [8ms]
+2025-10-20 15:01:11.844 [info] > git ls-files --stage -- .config/waybar/style.css [1ms]
+2025-10-20 15:01:11.848 [info] > git cat-file -s 2ea932ca575114b04f773d561ca5ca84aac566b7 [1ms]
+2025-10-20 15:01:13.413 [info] > git show --textconv :.config/waybar/config [12ms]
+2025-10-20 15:01:13.415 [info] > git ls-files --stage -- .config/waybar/config [4ms]
+2025-10-20 15:01:13.427 [info] > git cat-file -s d42872630ee0653c07b3b00e210a9c03b4a6eb2a [3ms]

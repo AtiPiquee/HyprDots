@@ -1,0 +1,17 @@
+general.import = [
+    "~/.config/alacritty/color_scheme/nord.toml"
+]
+
+[font]
+size = 10
+
+[font.normal]
+family = "JetBrains Mono Nerd Font"
+style = "SemiBold"
+
+[window]
+opacity = 0.90
+
+[window.padding]
+x = 15
+y = 14

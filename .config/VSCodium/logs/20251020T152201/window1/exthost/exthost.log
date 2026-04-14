@@ -1,0 +1,14 @@
+2025-10-20 15:22:03.278 [info] Extension host with pid 3769 started
+2025-10-20 15:22:03.278 [info] Skipping acquiring lock for /home/atipique_/.config/VSCodium/User/workspaceStorage/6330dcf60cbfaefac0e453a9c1986dc1.
+2025-10-20 15:22:03.335 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-20 15:22:03.373 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-10-20 15:22:03.791 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-20 15:22:03.809 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-20 15:22:03.861 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-20 15:22:03.956 [info] Eager extensions activated
+2025-10-20 15:22:03.958 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:22:03.960 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:22:03.976 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:22:54.256 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-20 15:22:54.265 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-20 15:22:54.336 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme",
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.fontFamily": "'JetBrains Mono ', 'monospace', monospace",
+    "explorer.confirmDelete": false,
+    "clangd.path": "/home/atipique_/.config/VSCodium/User/globalStorage/kylinideteam.kylin-clangd/install/19.1.2/clangd_19.1.2/bin/clangd",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
+}

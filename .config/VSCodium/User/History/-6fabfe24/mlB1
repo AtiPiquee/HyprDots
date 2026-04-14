@@ -1,0 +1,19 @@
+prompt-text = "> "
+
+text-color = #E5E9F0
+prompt-color = #88C0D0
+selection-background = #81A1C1
+selection-color = #1e1e2e
+background-color = #2E3440dd
+
+width = 100%
+padding-left = 35%
+padding-top = 30%
+height = 100%
+border-width = 0
+outline-width = 0
+result-spacing = 14
+num-results = 8
+font = Maple Mono SemiBold
+font-variations = "wght 600"
+font-size = 24

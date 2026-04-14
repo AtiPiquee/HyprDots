@@ -1,0 +1,35 @@
+2026-03-13 18:01:06.780 [info] Extension host with pid 2031 started
+2026-03-13 18:01:06.780 [info] Skipping acquiring lock for /home/atipique_/.config/VSCodium/User/workspaceStorage/e51267a326a4d68b5cc5144e98d63433.
+2026-03-13 18:01:07.077 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-13 18:01:07.106 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-03-13 18:01:07.554 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-13 18:01:07.575 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-13 18:01:07.629 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-13 18:01:07.729 [info] Eager extensions activated
+2026-03-13 18:01:07.730 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-13 18:01:07.732 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-13 18:01:07.749 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2026-03-13 18:01:19.719 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-13 18:01:19.726 [info] Extension host with pid 2031 exiting with code 0
+2026-03-13 18:01:20.952 [info] Extension host with pid 2108 started
+2026-03-13 18:01:20.983 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-13 18:01:21.027 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-13 18:01:21.069 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-13 18:01:21.161 [info] Eager extensions activated
+2026-03-13 18:01:21.162 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-13 18:01:21.165 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-13 18:01:21.181 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2026-03-13 18:01:27.231 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-13 18:01:27.237 [info] Extension host with pid 2108 exiting with code 0
+2026-03-13 18:01:28.578 [info] Extension host with pid 2142 started
+2026-03-13 18:01:28.578 [info] Skipping acquiring lock for /home/atipique_/.config/VSCodium/User/workspaceStorage/9c16519e3b58e9bdf83cf610efc05574.
+2026-03-13 18:01:28.593 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-13 18:01:28.627 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-13 18:01:28.630 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-13 18:01:28.683 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-13 18:01:28.788 [info] Eager extensions activated
+2026-03-13 18:01:28.789 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-13 18:01:28.792 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-13 18:01:28.814 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2026-03-14 13:34:34.497 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-14 13:34:34.507 [info] Extension host with pid 2142 exiting with code 0

@@ -1,0 +1,1 @@
+alias walk="walk --icons"

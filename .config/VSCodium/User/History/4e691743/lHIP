@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rofi_command="rofi -theme $HOME/Dev/polybar/scripts/themes/powermenu_alt.rasi

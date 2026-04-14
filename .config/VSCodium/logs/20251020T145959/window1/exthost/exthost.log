@@ -1,0 +1,61 @@
+2025-10-20 15:00:01.763 [info] Extension host with pid 1029 started
+2025-10-20 15:00:01.763 [info] Skipping acquiring lock for /home/atipique_/.config/VSCodium/User/workspaceStorage/e51267a326a4d68b5cc5144e98d63433.
+2025-10-20 15:00:02.039 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-20 15:00:02.064 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-10-20 15:00:02.456 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-20 15:00:02.479 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-20 15:00:02.557 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-20 15:00:02.673 [info] Eager extensions activated
+2025-10-20 15:00:02.676 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:00:02.678 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:00:02.696 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:01:01.929 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.929 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.929 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.929 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.929 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.929 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:01.930 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2025-10-20 15:01:18.912 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-20 15:01:18.923 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-20 15:01:18.939 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-10-20 15:01:18.997 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-10-20 15:01:32.624 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-20 15:03:15.317 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-20 15:03:15.334 [info] Extension host with pid 1029 exiting with code 0
+2025-10-20 15:03:16.635 [info] Extension host with pid 1625 started
+2025-10-20 15:03:16.656 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-20 15:03:16.665 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-20 15:03:16.711 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-20 15:03:16.800 [info] Eager extensions activated
+2025-10-20 15:03:16.802 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:03:16.804 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:03:16.819 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:03:19.318 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-20 15:03:19.323 [info] Extension host with pid 1625 exiting with code 0
+2025-10-20 15:03:20.475 [info] Extension host with pid 1667 started
+2025-10-20 15:03:20.475 [info] Skipping acquiring lock for /home/atipique_/.config/VSCodium/User/workspaceStorage/3f2addecda7bf3ab6a12bd0c5ba7714d.
+2025-10-20 15:03:20.488 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-20 15:03:20.496 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-20 15:03:20.540 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-20 15:03:20.637 [info] Eager extensions activated
+2025-10-20 15:03:20.639 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:03:20.641 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:03:20.657 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-10-20 15:03:21.915 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-20 15:03:22.697 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-20 15:03:22.706 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-20 15:03:22.723 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-10-20 15:03:22.791 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-10-20 15:15:10.531 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-10-20 15:21:41.260 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-20 15:21:41.270 [info] Extension host with pid 1667 exiting with code 0

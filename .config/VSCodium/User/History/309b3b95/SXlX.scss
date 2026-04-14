@@ -1,0 +1,30 @@
+@import "../src/libs/reset.scss";
+
+body {
+    background: #000000;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+p {
+    margin: 1rem;
+}
+
+.btn {
+    padding: 5px 12px;
+    background: blueviolet;
+
+    &:hover {
+        background: blue($color: #000000)
+    }
+}
+
+.btn-danger {
+    @extend .btn;
+
+    background: red;
+
+    &:hover{
+        background: rgb(110, 0, 0);
+    }
+}

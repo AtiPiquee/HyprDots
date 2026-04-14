@@ -1,0 +1,5 @@
+2025-10-20 15:25:43.701 [error] Invalid path provided: /home/atipique_/.config/waybar.bak, ENOENT: no such file or directory, stat '/home/atipique_/.config/waybar.bak'
+2025-10-20 15:25:43.784 [info] update#setState disabled
+2025-10-20 15:25:43.784 [info] update#ctor - updates are disabled as there is no update URL
+2025-10-20 15:25:47.303 [info] Extension host with pid 5126 exited with code: 0, signal: unknown.
+2025-10-20 15:31:24.031 [info] Extension host with pid 5160 exited with code: 0, signal: unknown.

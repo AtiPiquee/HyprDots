@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme",
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.fontFamily": "'JetBrains Mono ', 'monospace', monospace",
+    "explorer.confirmDelete": false
+}

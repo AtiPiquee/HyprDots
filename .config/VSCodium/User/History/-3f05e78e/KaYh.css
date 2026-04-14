@@ -1,0 +1,89 @@
+* {
+    font-family: Maple Mono SemiBold,Regular;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    opacity: 0.95;
+}
+
+window#waybar {
+    background: #2E3440;
+    /*background: transparent;*/
+    border: 3px solid #3b4252;
+    border-bottom-left-radius: 6;
+    border-top-left-radius: 6;
+        border-top-right-radius: 6;
+    border-bottom-right-radius: 6;
+}
+
+#custom-powermenu {
+    background-color: #2e3440;
+    border-top-left-radius: 5;
+    border-bottom-left-radius: 5;
+}
+
+#workspaces {
+    background-color: #3b4252;
+}
+
+#clock {
+    background-color: #434c5e;
+}
+
+#clock calendar {
+    background-color: #434c5e;
+}
+
+#pulseaudio {
+    background-color: #4c566a;
+}
+
+#backlight {
+    background-color: #5e81ac;
+}
+
+#battery {
+    background-color: #bf616a;
+}
+
+#custom-e0ba {
+    color: #434c5e;
+}
+
+#custom-e0ba2 {
+    color: #4c566a;
+}
+
+#custom-e0bc {
+    background-color: #3b4252;
+    color: #2e3440;
+}
+
+#custom-e0bc2 {
+    color: #3b4252;
+}
+
+#custom-e0bc3 {
+    color: #434c5e;
+}
+
+#custom-e0bc4 {
+    color: #4c566a;
+    background-color: #5e81ac;
+}
+
+#custom-e0bc5 {
+    color: #5e81ac;
+    background-color: #bf616a;
+}
+
+#custom-e0bc6 {
+    color: #bf616a;
+    background-color: transparent;
+}
+
+#custom-space {
+    background-color: #bf616a;
+    border-top-right-radius: 6;
+    border-bottom-right-radius: 6;
+}

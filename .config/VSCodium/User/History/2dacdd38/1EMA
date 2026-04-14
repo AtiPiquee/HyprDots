@@ -1,0 +1,4 @@
+    "hyprland/workspaces": {
+        "disable-scroll": true,
+        "on-click": "activate"
+    },

@@ -1,0 +1,140 @@
+{
+    "height": 30,
+    "spacing": 4,
+    "margin": 6,
+
+    "modules-left": ["custom/powermenu", "custom/e0bc", "hyprland/workspaces", "custom/e0bc2"],
+    "modules-center": ["clock"],
+    "modules-right": ["custom/e0ba2", "pulseaudio", "custom/e0bc4", "backlight", "custom/e0bc5", "battery", "custom/e0bc6"],
+    
+    "custom/powermenu": {
+        "format": " 󰣇 ",
+        "on-click": "~/.local/bin/powermenu",
+        "tooltip": false
+    },
+
+    "hyprland/workspaces": {
+	    "format": "{icon}",
+	    "format-icons": {
+	    	"1": " • ",
+	    	"2": " • ",
+	    	"3": " • ",
+	    	"4": " • ",
+	    	"5": " • ",
+	    	"active": " 󰮯 ",
+            "special": ""
+	    },
+	    "persistent-workspaces": {
+	    	"*": 5,
+	    	"eDP-1": 5
+	    }
+    },
+
+    "clock": {
+        "format-alt": "{:%a, %d. %b %H:%M}",
+        "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "calendar": {
+                    "mode"          : "months",
+                    "mode-mon-col"  : 3,
+                    "weeks-pos"     : "right",
+                    "on-scroll"     : 1,
+                    "format": {
+                              "months":     "<span color='#FFFACD'><b>{}</b></span>",
+                              "days":       "<span color='#D8DEE9'><b>{}</b></span>",
+                              "weeks":      "<span color='#99ffdd'></span>",
+                              "weekdays":   "<span color='#EBCB8B'><b>{}</b></span>",
+                              "today":      "<span color='#81A1C1'><b><u>{}</u></b></span>"
+                              }
+                    },
+        "actions":  {
+                    "on-click-right": "mode",
+                    "on-scroll-up": "tz_up",
+                    "on-scroll-down": "tz_down",
+                    "on-scroll-up": "shift_up",
+                    "on-scroll-down": "shift_down"
+                    }
+    },
+
+    "backlight": {
+        "format": "{percent}% {icon} ",
+        "states": [0,50],
+        "format-icons": ["", ""]
+    },
+
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% {icon}  ",
+
+        "format-icons": ["", "", "", "", ""]
+    },
+
+    "pulseaudio": {
+        "format": "{volume}% {icon} ",
+        "format-bluetooth": "{volume}% {icon}",
+        "format-muted": "",
+        "format-icons": {
+            "headphones": "",
+            "handsfree": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+
+    "custom/e0ba": {
+        "format": "<span size='large' rise='-1500'></span>",
+        "tooltip": false
+    },
+
+    "custom/e0ba2": {
+        "format": "<span size='large' rise='-1500'></span>",
+        "tooltip": false
+    },
+
+    "custom/e0bc": {
+        "format": "<span size='large' rise='-1500'></span>",
+        "tooltip": false
+    },
+
+    "custom/e0bc2": {
+        "format": "<span size='large' rise='-1500'></span>",
+        "tooltip": false
+    },
+
+    "custom/e0bc3": {
+        "format": "<span size='large' rise='-1500'></span>",
+        "tooltip": false
+    },
+
+    "custom/e0bc4": {
+        "format": "<span size='large' rise='-1500'></span>",
+        "tooltip": false
+    },
+
+    "custom/e0bc5": {
+        "format": "<span size='large' rise='-1500'></span>",
+        "tooltip": false
+    },
+
+    "custom/e0bc6": {
+        "format": "<span size='large' rise='-1500'></span>",
+        "tooltip": false
+    },
+
+    "custom/space": {
+        "format": " ",
+        "tooltip": false
+    },
+
+    "custom/space2": {
+        "format": " ",
+        "tooltip": false
+    }
+}

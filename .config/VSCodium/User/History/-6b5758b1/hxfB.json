@@ -1,0 +1,28 @@
+"hyprland/workspaces": {
+	"format": "{name}: {icon}",
+	"format-icons": {
+		"1": "•",
+		"2": "•",
+		"3": "•",
+		"4": "•",
+		"5": "•",
+		"active": "󰮯",
+		"default": ""
+	},
+	"persistent-workspaces": {
+		"*": 5, // 5 workspaces by default on every monitor
+		"eDP-1": 5 // but only three on HDMI-A-1
+	}
+}
+
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "icons": {
+            "active": "󰮯",    
+            "used": "",      
+            "inactive": "•"   
+        },
+        "max_workspaces": 5,
+        "sort_by_activity": false,
+        "exclude_untouched": false
+    },

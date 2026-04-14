@@ -1,0 +1,37 @@
+* {
+    font-family: Maple Mono SemiBold,Regular;
+    font-size: 20px;
+    background: transparent;
+}
+
+/*
+window#waybar {
+    min-height: 20px;
+    padding: 0px 6px;
+    margin-bottom: 0px;
+}*/
+
+#custom-space {
+    background-color: #88C0D0;
+}
+
+#custom-powermenu {
+    background-color: #88C0D0;
+}
+
+#custom-e0b0 {
+    background-color: #81A1C1;
+    color: #88C0D0;
+}
+
+#workspaces {
+    background-color: #81A1C1;
+}
+
+#clock {
+    background-color: #81A1C1;
+}
+
+#custom-cava, #network, #pulseaudio, #battery {
+    background-color: #81A1C1;
+} 

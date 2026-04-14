@@ -1,0 +1,69 @@
+{
+    "height": 30,
+    "spacing": 4,
+    "margin": 6,
+
+    "modules-left": ["custom/powermenu" ,"hyprland/workspaces"],
+    "modules-center": ["clock"],
+    "modules-right": ["pulseaudio" ,"backlight", "battery"],
+    
+    "custom/powermenu": {
+        "format": " 󰣇 ",
+        "on-click": "~/.local/bin/powermenu",
+        "tooltip": false
+    },
+
+    "hyprland/workspaces": {
+	    "format": "{icon}",
+	    "format-icons": {
+	    	"1": " • ",
+	    	"2": " • ",
+	    	"3": " • ",
+	    	"4": " • ",
+	    	"5": " • ",
+	    	"active": " 󰮯 ",
+            "special": ""
+	    },
+	    "persistent-workspaces": {
+	    	"*": 5,
+	    	"eDP-1": 5
+	    }
+    },
+
+    "clock": {
+        "format-alt": "{:%a, %d. %b  %H:%M}"
+    },
+
+    "backlight": {
+        "format": "{percent}% {icon} ",
+        "states": [0,50],
+        "format-icons": ["", ""]
+    },
+
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% {icon}  ",
+
+        "format-icons": ["", "", "", "", ""]
+    },
+
+    "pulseaudio": {
+        "format": "{volume}% {icon} ",
+        "format-bluetooth": "{volume}% {icon}",
+        "format-muted": "",
+        "format-icons": {
+            "headphones": "",
+            "handsfree": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", ""]
+        },
+        "on-click": "pavucontrol"
+    }
+}

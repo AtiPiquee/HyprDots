@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" style="background-color: #f0f0f0;">
+  <rect x="50" y="50" width="300" height="200" fill="#e0e0e0" rx="10" ry="10"/>
+  <line x1="100" y1="110" x2="300" y2="110" stroke="#a0a0a0" stroke-width="3"/>
+  <line x1="100" y1="150" x2="250" y2="150" stroke="#a0a0a0" stroke-width="3"/>
+  <line x1="100" y1="190" x2="200" y2="190" stroke="#a0a0a0" stroke-width="3"/>
+  
+  <path d="M150 80 L170 50 L190 80" fill="#ff6b6b"/>
+  <path d="M250 80 L270 50 L290 80" fill="#4ecdc4"/>
+  
+  <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" fill="#888" font-size="16">
+    Recette
+  </text>
+</svg>
